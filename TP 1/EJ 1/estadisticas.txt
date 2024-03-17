@@ -1,9 +1,9 @@
 Cantidad de documentos procesados: 498
-Cantidad de tokens extraídos: 392954
-Cantidad de términos extraídos: 120248
-Promedio de tokens por documento: 789.0642570281125
-Promedio de términos por documento: 241.46184738955824
-Largo promedio de un término: 5.58470966067275
-Cantidad de tokens del documento más corto: 2
-Cantidad de tokens del documento más largo: 51548
-Cantidad de términos que aparecen solo 1 vez: 15598
+Cantidad de tokens extraídos: 393187
+Cantidad de términos extraídos: 119536
+Promedio de tokens por documento: 789.5321285140562
+Promedio de términos por documento: 240.0321285140562
+Largo promedio de un término: 5.581400198887552
+Cantidad de tokens del documento más corto: 3
+Cantidad de tokens del documento más largo: 51549
+Cantidad de términos que aparecen solo 1 vez: 15150

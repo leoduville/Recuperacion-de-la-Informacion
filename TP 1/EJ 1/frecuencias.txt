@@ -2,11 +2,11 @@ Los 10 términos más frecuentes y su CF (Collection Frequency):
 de 33057
 la 14166
 y 10956
-en 9908
-el 7048
+en 9909
+el 7107
 a 5808
+que 4659
 del 4518
-que 4501
 los 3731
 las 2995
 
@@ -14,8 +14,8 @@ Los 10 términos menos frecuentes y su CF (Collection Frequency):
 tvradio 1
 universidadenlace 1
 impresoagenda21 1
-comunicacióneudem 1
-españolversión 1
+comunicacioneudem 1
+espanolversion 1
 saspi 1
 sistemasgcyt 1
 4f3d7b0ddb7c5 1

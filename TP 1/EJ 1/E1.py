@@ -3,9 +3,23 @@ import sys
 import re
 from collections import defaultdict
 
+def remove_accents(word):
+    # Definimos un diccionario con los caracteres acentuados en minúsculas y sus equivalentes sin acento
+    accents_mapping = {
+        'á': 'a', 'é': 'e', 'í': 'i', 'ó': 'o', 'ú': 'u',
+        'ü': 'u', 'ñ': 'n'
+    }
+    # Reemplazamos los caracteres acentuados por sus equivalentes sin acento
+    for accented_char, unaccented_char in accents_mapping.items():
+        word = word.replace(accented_char, unaccented_char)
+    return word
+
 def tokenize(text):
-    # Utilizamos una expresión regular para dividir el texto en palabras
-    return re.findall(r'\w+', text.lower())
+    # Utilizamos split para dividir el texto en palabras
+    words = re.split(r'\W+', text.lower())
+    # Eliminamos los acentos de las palabras
+    words_without_accents = [remove_accents(word) for word in words]
+    return words_without_accents
 
 def process_document(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -49,7 +63,6 @@ def generate_lexical_analysis(directory, stopwords_file=None, min_length=1, max_
                     document_frequency[term] += 1
 
     sorted_terms = sorted(term_frequency.items(), key=lambda x: x[1], reverse=True)
-
     for term, freq in term_frequency.items():
         if freq == 1:
             term_frequency_one += 1
@@ -61,8 +74,8 @@ def generate_lexical_analysis(directory, stopwords_file=None, min_length=1, max_
 
     # Escribir resultados en el archivo terminos.txt
     with open('terminos.txt', 'w', encoding='utf-8') as output_file:
-        for term in sorted(term_frequency.keys()):
-            output_file.write(f"{term} {term_frequency[term]} {document_frequency[term]}\n")
+         for term, cf in sorted_terms:
+            output_file.write(f"{term} {cf} {document_frequency[term]}\n")
 
     # Escribir resultados en el archivo estadisticas.txt
     with open('estadisticas.txt', 'w', encoding='utf-8') as stats_file:
