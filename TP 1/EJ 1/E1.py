@@ -1,13 +1,13 @@
 import os
 import sys
 import re
+import string
 from collections import defaultdict
 
 def remove_accents(word):
     # Definimos un diccionario con los caracteres acentuados en minúsculas y sus equivalentes sin acento
     accents_mapping = {
-        'á': 'a', 'é': 'e', 'í': 'i', 'ó': 'o', 'ú': 'u',
-        'ü': 'u', 'ñ': 'n'
+        'á': 'a', 'é': 'e', 'í': 'i', 'ó': 'o', 'ú': 'u'
     }
     # Reemplazamos los caracteres acentuados por sus equivalentes sin acento
     for accented_char, unaccented_char in accents_mapping.items():
@@ -15,16 +15,28 @@ def remove_accents(word):
     return word
 
 def tokenize(text):
-    # Utilizamos split para dividir el texto en palabras
+    # Utilizamos split para dividir el texto en palabras y convertimos a minúscula
     words = re.split(r'\W+', text.lower())
     # Eliminamos los acentos de las palabras
     words_without_accents = [remove_accents(word) for word in words]
-    return words_without_accents
+    # Eliminamos los signos de puntuación
+    translation_table = str.maketrans('', '', string.punctuation)
+    words_without_punctuation = [word.translate(translation_table) for word in words_without_accents]
+    return words_without_punctuation
+
+def count_tokens(text):
+    words = text.split(" ")
+    return words
 
 def process_document(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         text = file.read()
         return tokenize(text)
+
+def process_tokens(file_path):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        text = file.read()
+        return count_tokens(text)
 
 def remove_stopwords(terms, stopwords_file):
     with open(stopwords_file, 'r', encoding='utf-8') as file:
@@ -44,8 +56,9 @@ def generate_lexical_analysis(directory, stopwords_file=None, min_length=1, max_
     for filename in os.listdir(directory):
         if filename.endswith('.txt'):
             file_path = os.path.join(directory, filename)
+            tokens = process_tokens(file_path)
+            token_count += len(tokens)
             terms = process_document(file_path)
-            token_count += len(terms)
             term_count += len(set(terms))
             term_lengths.extend(map(len, terms))
             shortest_document = min(shortest_document, len(terms))

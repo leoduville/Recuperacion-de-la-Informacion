@@ -2,13 +2,30 @@ import os
 import re
 import sys
 from collections import defaultdict
+import string
 from nltk.stem import PorterStemmer
-from nltk.tokenize import word_tokenize
 import nltk
 nltk.download('punkt')
 
+def remove_accents(word):
+    # Definimos un diccionario con los caracteres acentuados en minúsculas y sus equivalentes sin acento
+    accents_mapping = {
+        'á': 'a', 'é': 'e', 'í': 'i', 'ó': 'o', 'ú': 'u'
+    }
+    # Reemplazamos los caracteres acentuados por sus equivalentes sin acento
+    for accented_char, unaccented_char in accents_mapping.items():
+        word = word.replace(accented_char, unaccented_char)
+    return word
+
 def tokenize(text):
-    return word_tokenize(text.lower())
+    # Utilizamos split para dividir el texto en palabras y convertimos a minúscula
+    words = re.split(r'\W+', text.lower())
+    # Eliminamos los acentos de las palabras
+    words_without_accents = [remove_accents(word) for word in words]
+    # Eliminamos los signos de puntuación
+    translation_table = str.maketrans('', '', string.punctuation)
+    words_without_punctuation = [word.translate(translation_table) for word in words_without_accents]
+    return words_without_punctuation
 
 def process_document(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
