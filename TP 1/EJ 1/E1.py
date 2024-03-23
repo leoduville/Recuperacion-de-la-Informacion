@@ -94,7 +94,7 @@ def generate_lexical_analysis(directory, stopwords_file=None, min_length=1, max_
     with open('estadisticas.txt', 'w', encoding='utf-8') as stats_file:
         stats_file.write(f"Cantidad de documentos procesados: {len(os.listdir(directory))}\n")
         stats_file.write(f"Cantidad de tokens extraídos: {token_count}\n")
-        stats_file.write(f"Cantidad de términos extraídos: {term_count}\n")
+        stats_file.write(f"Cantidad de términos extraídos: {len(sorted_terms)}\n")
         stats_file.write(f"Promedio de tokens por documento: {avg_token_per_document}\n")
         stats_file.write(f"Promedio de términos por documento: {avg_term_per_document}\n")
         stats_file.write(f"Largo promedio de un término: {avg_term_length}\n")
