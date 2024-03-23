@@ -9,7 +9,6 @@ def cargar_conjunto_entrenamiento(ruta_archivos):
             conjunto_entrenamiento[idioma] = texto_entrenamiento
     return conjunto_entrenamiento
 
-
 # Función para calcular la frecuencia de letras en un texto
 def calcular_frecuencia_letras(texto):
     texto = texto.lower()
@@ -58,7 +57,6 @@ def main():
         'Ingles': 'languageIdentificationData/training/English.txt',
         'Frances': 'languageIdentificationData/training/French.txt',
         'Italiano': 'languageIdentificationData/training/Italian.txt'
-        # Agrega más idiomas con sus rutas correspondientes si es necesario
     }
     
     # Ruta del archivo de prueba

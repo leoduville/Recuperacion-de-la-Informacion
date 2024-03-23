@@ -48,10 +48,10 @@ def generate_lexical_analysis(directory, stopwords_file=None, min_length=1, max_
     document_frequency = defaultdict(int)  # Document Frequency
     token_count = 0 # Variables para estadisticas.txt
     term_count = 0
-    term_lengths = []
     term_frequency_one = 0
     shortest_document = float('inf')
     longest_document = 0
+    total_letters_terms = 0
 
     for filename in os.listdir(directory):
         if filename.endswith('.txt'):
@@ -60,7 +60,6 @@ def generate_lexical_analysis(directory, stopwords_file=None, min_length=1, max_
             token_count += len(tokens)
             terms = process_document(file_path)
             term_count += len(set(terms))
-            term_lengths.extend(map(len, terms))
             shortest_document = min(shortest_document, len(terms))
             longest_document = max(longest_document, len(terms))
 
@@ -83,11 +82,11 @@ def generate_lexical_analysis(directory, stopwords_file=None, min_length=1, max_
     # Calcular estadísticas
     avg_token_per_document = token_count / len(os.listdir(directory))
     avg_term_per_document = term_count / len(os.listdir(directory))
-    avg_term_length = sum(term_lengths) / len(term_lengths)
 
     # Escribir resultados en el archivo terminos.txt
     with open('terminos.txt', 'w', encoding='utf-8') as output_file:
          for term, cf in sorted_terms:
+            total_letters_terms += len(term)
             output_file.write(f"{term} {cf} {document_frequency[term]}\n")
 
     # Escribir resultados en el archivo estadisticas.txt
@@ -97,7 +96,7 @@ def generate_lexical_analysis(directory, stopwords_file=None, min_length=1, max_
         stats_file.write(f"Cantidad de términos extraídos: {len(sorted_terms)}\n")
         stats_file.write(f"Promedio de tokens por documento: {avg_token_per_document}\n")
         stats_file.write(f"Promedio de términos por documento: {avg_term_per_document}\n")
-        stats_file.write(f"Largo promedio de un término: {avg_term_length}\n")
+        stats_file.write(f"Largo promedio de un término: {total_letters_terms/len(sorted_terms)}\n")
         stats_file.write(f"Cantidad de tokens del documento más corto: {shortest_document}\n")
         stats_file.write(f"Cantidad de tokens del documento más largo: {longest_document}\n")
         stats_file.write(f"Cantidad de términos que aparecen solo 1 vez: {term_frequency_one}\n")        
