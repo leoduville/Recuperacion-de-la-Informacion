@@ -1,0 +1,2 @@
+Términos totales procesados: 386775
+Términos únicos: 23167
