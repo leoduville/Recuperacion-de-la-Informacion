@@ -1,0 +1,556 @@
+<TOP>
+<NUM>1</NUM>
+<TITLE> what problems and concerns are there in making up descriptive titleswhat difficulties are involved in automatically retrieving articles fromapproximate titleswhat is the usual relevance of the content of articles to their titles</TITLE>
+</TOP>
+<TOP>
+<NUM>2</NUM>
+<TITLE> how can actually pertinent data as opposed to references or entire articlesthemselves be retrieved automatically in response to information requests</TITLE>
+</TOP>
+<TOP>
+<NUM>3</NUM>
+<TITLE> what is information science give definitions where possible</TITLE>
+</TOP>
+<TOP>
+<NUM>4</NUM>
+<TITLE> image recognition and any other methods of automaticallytransforming printed text into computerready form</TITLE>
+</TOP>
+<TOP>
+<NUM>5</NUM>
+<TITLE> what special training will ordinary researchers and businessmen need for properinformation management and unobstructed use of information retrieval systemswhat problems are they likely to encounter</TITLE>
+</TOP>
+<TOP>
+<NUM>6</NUM>
+<TITLE> what possibilities are there for verbal communication between computers andhumans that is communication via the spoken word</TITLE>
+</TOP>
+<TOP>
+<NUM>7</NUM>
+<TITLE> describe presently working and planned systems for publishing and printingoriginal papers by computer and then saving the byproduct articles coded indataprocessing form for further use in retrieval</TITLE>
+</TOP>
+<TOP>
+<NUM>8</NUM>
+<TITLE> describe information retrieval and indexing in other languageswhat bearing does it have on the science in general</TITLE>
+</TOP>
+<TOP>
+<NUM>9</NUM>
+<TITLE> what possibilities are there for automatic grammatical and contextual analysisof articles for inclusion in an information retrieval system</TITLE>
+</TOP>
+<TOP>
+<NUM>10</NUM>
+<TITLE> the use of abstract mathematics in information retrieval eg group theory</TITLE>
+</TOP>
+<TOP>
+<NUM>11</NUM>
+<TITLE> what is the need for information consolidation evaluation and retrieval inscientific research</TITLE>
+</TOP>
+<TOP>
+<NUM>12</NUM>
+<TITLE> give methods for high speed publication printing and distribution ofscientific journals</TITLE>
+</TOP>
+<TOP>
+<NUM>13</NUM>
+<TITLE> what criteria have been developed for the objective evaluation of informationretrieval and dissemination systems</TITLE>
+</TOP>
+<TOP>
+<NUM>14</NUM>
+<TITLE> what future is there for automatic medical diagnosis</TITLE>
+</TOP>
+<TOP>
+<NUM>15</NUM>
+<TITLE> how much do information retrieval and dissemination systems as well asautomated libraries costare they worth it to the researcher and to industry</TITLE>
+</TOP>
+<TOP>
+<NUM>16</NUM>
+<TITLE> what systems incorporate multiprogramming or remote stations in informationretrieval what will be the extent of their use in the future</TITLE>
+</TOP>
+<TOP>
+<NUM>17</NUM>
+<TITLE> means of obtaining large volume high speed customer usableinformation retrieval output</TITLE>
+</TOP>
+<TOP>
+<NUM>18</NUM>
+<TITLE> what methods are there for encoding automatically matchingand automatically drawing structures extended in two dimensionslike the structural formulas for chemical compounds</TITLE>
+</TOP>
+<TOP>
+<NUM>19</NUM>
+<TITLE> techniques of machine matching and machine searching systemscoding and matching methods</TITLE>
+</TOP>
+<TOP>
+<NUM>20</NUM>
+<TITLE> testing automated information systems</TITLE>
+</TOP>
+<TOP>
+<NUM>21</NUM>
+<TITLE> the need to provide personnel for the information field</TITLE>
+</TOP>
+<TOP>
+<NUM>22</NUM>
+<TITLE> automated information in the medical field</TITLE>
+</TOP>
+<TOP>
+<NUM>23</NUM>
+<TITLE> amount of use of books in librariesrelation to need for automated information systems</TITLE>
+</TOP>
+<TOP>
+<NUM>24</NUM>
+<TITLE> educational and training requirements for personnel in the information fieldpossibilities for this training needs for programs providing this training</TITLE>
+</TOP>
+<TOP>
+<NUM>25</NUM>
+<TITLE> international systems for exchange and dissemination of information</TITLE>
+</TOP>
+<TOP>
+<NUM>26</NUM>
+<TITLE> cost and determination of cost associated with systems of automated information</TITLE>
+</TOP>
+<TOP>
+<NUM>27</NUM>
+<TITLE> computerized information retrieval systems computerized indexing systems</TITLE>
+</TOP>
+<TOP>
+<NUM>28</NUM>
+<TITLE> computerized information systems in fields related to chemistry</TITLE>
+</TOP>
+<TOP>
+<NUM>29</NUM>
+<TITLE> specific advantages of computerized index systems</TITLE>
+</TOP>
+<TOP>
+<NUM>30</NUM>
+<TITLE> information dissemination by journals and periodicals</TITLE>
+</TOP>
+<TOP>
+<NUM>31</NUM>
+<TITLE> information systems in the physical sciences</TITLE>
+</TOP>
+<TOP>
+<NUM>32</NUM>
+<TITLE> attempts at computerized and mechanized systems for general librariesproblems and methods of automated general author and title indexing systems</TITLE>
+</TOP>
+<TOP>
+<NUM>33</NUM>
+<TITLE> retrieval systems which provide for the automated transmission of informationto the user from distance</TITLE>
+</TOP>
+<TOP>
+<NUM>34</NUM>
+<TITLE> methods of coding used in computerized index systems</TITLE>
+</TOP>
+<TOP>
+<NUM>35</NUM>
+<TITLE> government supported agencies and projects dealing with information dissemination</TITLE>
+</TOP>
+<TOP>
+<NUM>36</NUM>
+<TITLE> what are some of the theories and practices in computer translating oftexts from one national language to another how can machine translatingcompete with traditional methods of translating in comprehending nuancesof meaning in languages of different structures</TITLE>
+</TOP>
+<TOP>
+<NUM>37</NUM>
+<TITLE> what lists of words useful for indexing or classifying material areavailable wanted are lists of terms that are descriptive vocabulariesof particular fields or schedules of words that are related to each otherin meaningful schemes wanted are lists that have been tested at least tosome extent and found useful for organizing material and for retrieving it</TITLE>
+</TOP>
+<TOP>
+<NUM>38</NUM>
+<TITLE> how can access words in an information retrieval system be kept up to dateword meanings and usage often change and lists must be dynamic to be currentwhat definitions of the problem and progress toward solutions have been madein providing necessary flexibility in systems of subject headings indexwords or other symbols used for getting at stored data</TITLE>
+</TOP>
+<TOP>
+<NUM>39</NUM>
+<TITLE> the progress of information retrieval presents problems of maladjustmentand dislocation of personnel training and retraining of people to usethe new equipment is important at all levels librarians assistantstechnicians students researchers and even executives will need educationto learn the purpose values and uses of information systems and hardwarewhat programs have been developed to change the attitudes and skills oftraditional workers and help them to learn the newer techniques</TITLE>
+</TOP>
+<TOP>
+<NUM>40</NUM>
+<TITLE> what is the status of machine translation what progress beenmade in the use of computers to transfer from one language to anotherwith some degree of automation what problems and stumbling blockshave been found and are they considered to be insurmountable limitationsor only challenging to the field of documentation on an international scale</TITLE>
+</TOP>
+<TOP>
+<NUM>41</NUM>
+<TITLE> is alphabetical ordering of material considered to be useful tool ininformation retrieval what studies have been done to compare theeffectiveness of alphabetical order with other organization schemesis there generally accepted form of arranging material inalphabetical order and is there an easy way of achieving this formwithout going to great amount of effort</TITLE>
+</TOP>
+<TOP>
+<NUM>42</NUM>
+<TITLE> the average student or researcher difficulty in comprehending thevocabulary of information retrieval it appears important that thisnew field be understood before it is to be fully accepted what basicarticles would provide an understanding of the various important aspectsof the information storage and retrieval</TITLE>
+</TOP>
+<TOP>
+<NUM>43</NUM>
+<TITLE> the difficulties encountered in information retrieval systems are oftenless related to the equipment used than to the failure to planadequately for document analysis indexing and machine coding theposition of the programmer is to take problem and write it in wayin which the equipment will understand what articles have been writtendescribing research in maximizing the effectiveness of programming</TITLE>
+</TOP>
+<TOP>
+<NUM>44</NUM>
+<TITLE> there are presently fifty to one hundred technical journals beingpublished on the average two new journals appear every day inthe many journals published one to two million articles appear everyyear what attempts have been made to cope with this amount ofscientific and technical publication in terms of analysis controlstorage and retrieval</TITLE>
+</TOP>
+<TOP>
+<NUM>45</NUM>
+<TITLE> i am looking for information about the impact of automation onlibraries and its significance for libraries in general this includesthe increasing importance of automation in view of the proliferation ofinformation today and how automation can help libraries cope withthis problem how will automation affect libraries and how should theyreact to the idea of automation</TITLE>
+</TOP>
+<TOP>
+<NUM>46</NUM>
+<TITLE> i am seeking information on the use of data processing in libraries andthe mechanization of routine library processes and procedures i wouldlike descriptions of both general and specific applications ofautomation in such areas as circulation cataloging acquisitionsserial records and other recordkeeping examples should be based onthe operation of conventional public or university library orpractices in special library which could also be applied in publicor university library give descriptions of equipment and operationsboth present and projected</TITLE>
+</TOP>
+<TOP>
+<NUM>47</NUM>
+<TITLE> is there any established means at present for an international exchangeof material about information retrieval if there is does it takethe form of an international agency or center which regularlydistributes information retrieval methods and research results ifthere is not in what ways this material crossed nationalboundaries what seem to have been some of the problems blockingbetter international exchange and is any effort being made to solvesome of those problems</TITLE>
+</TOP>
+<TOP>
+<NUM>48</NUM>
+<TITLE> information retrieval is still such new and experimental field thatline distinguishing research and practice is often difficult evenimpossible to draw are there however actual centers of researchon information retrieval if so in which countries are theylocated who supports them government business universities orlibraries can information retrieval as specialized researchdiscipline be said to be emerging or is it still an amalgam of skillsfrom other fields such as mathematics engineering and libraryscience in other words tell about information retrieval research</TITLE>
+</TOP>
+<TOP>
+<NUM>49</NUM>
+<TITLE> most resources have been spent on applying information retrievaltechniques to the physical and medical sciences but informationretrieval been used at all in the natural sciences social sciencesand humanities if so what have been some of the problems which havebeen encountered with these subject areas and how have they beensolved if at all have the characteristics of these subject areasnecessitated the development of new information retrieval techniqueswhat are the prospcts for future machine control in these areas</TITLE>
+</TOP>
+<TOP>
+<NUM>50</NUM>
+<TITLE> is there any use for traditional classification schemes ddc udc lcetc in information retrieval systems if there is which schemeappears most suited to machine use and where it been appliedif there is not why are these classification schemes irrelevantresearch shown that subject classification of knowledge iscompletely unnecessary in machine systems or have new schemesbeen devised which appear to be more suited to machine use</TITLE>
+</TOP>
+<TOP>
+<NUM>51</NUM>
+<TITLE> coordinate indexing utilizes descriptors for controlled language ofwhat use are descriptors in the construction of an index how candescriptors be used for searching in an information retrieval system</TITLE>
+</TOP>
+<TOP>
+<NUM>52</NUM>
+<TITLE> what are the characteristics of medlars medical literature analysisand retrieval system project which been undertaken by thenational library of medicine how does it index current medicaljournals and of what relation is this indexing system to index medicuswhat are the major components of the medlars project and its major operatingdetails</TITLE>
+</TOP>
+<TOP>
+<NUM>53</NUM>
+<TITLE> how can the computer be used in medical science for diagnostic andclinical record keeping purposes have any programs of automationbeen tried in hospitals if so what have been the resultswhat problems have been encountered in the use of automation inmedicine for what purposes can an automated system of clinicalrecords be used what are other possible uses of the computer in medicine</TITLE>
+</TOP>
+<TOP>
+<NUM>54</NUM>
+<TITLE> what is the effect on librarians of automation note the new typesof technology to be used in the library which will have an effect onthe status position and function of the librarians what changesare being contemplated or have been initiated to introduce automationinto the education of librarians</TITLE>
+</TOP>
+<TOP>
+<NUM>55</NUM>
+<TITLE> what are the aims and objectives of the medical literature analysisand retrieval system medlars how does medlars operate what arethe possible applications of medlars to future information retrievalsystems</TITLE>
+</TOP>
+<TOP>
+<NUM>56</NUM>
+<TITLE> the standard method of finding information in todays libraries isthrough the use of the alphabetically arranged card catalog or theclassified catalog based on classification system such as the dc orlc can these systems be modified for use with automated informationretrieval</TITLE>
+</TOP>
+<TOP>
+<NUM>57</NUM>
+<TITLE> in catalogs which are either arranged alphabetically or arranged byclassification number the lc entry printed in readable language isultimately important because the individual looking for informationdefinite author title or subject phrase in his languageprobably english in our case in mind will lc entries and subjectheadings be used in the same manner in automated systems</TITLE>
+</TOP>
+<TOP>
+<NUM>58</NUM>
+<TITLE> directions in library networkingavram hdmccallum shbibliographic control before and after marc is reviewed the capabilityof keying into online systems brought an interdependence among librariesthe service centers that mediate between them and the large utilities thatprocess and distribute data from this developed the basic networkstructure among libraries in the united states the independent developmentof major networks brought problems in standardization and coordinationthe authors point out that while technology led toward centralizationof automated library services new developments are now pushing towarddecentralization coordination is requirement to avoid fragmentation inthis new environment </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>59</NUM>
+<TITLE> performance testing of book and its index as information retrievalsystembennion bcthe retrieval performance of book indexes can be measured in terms oftheir ability to direct user selectively to text material whose identitybut not location is known the method requires human searchers to basetheir searching strategies on actual passages from the book rather than ontest queries natural or contrived it circumvents the need for relevancejudgement but still yields performance indicators that correspondapproximately to the recall and precision ratios of large document retrievalsystem evaluation preliminary application of the method to the subjectindexing of two major encyclopedias showed one encyclopedia apparentlysuperior in both the finding and discrimination abilities of retrievalperformance the method is presently best suited for comparative testingsince its ability to yield absolute or reproducible measures is as yet notestablished </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>60</NUM>
+<TITLE> the combined use of bibliographic coupling and cocitation for documentretrievalbichteler jeaton ea iiilinkage similarity measure which takes into account both the bibliographiccoupling of documents and their cocitations both cited and citing papersproduced improved document retrieval over measure based only onbibliographic coupling the test collection consisted of 1712 papers whoserelevance to specific queries had been judged by users to evaluate theeffect of using cocitation data we calculated for each query two measuresof similarity between each relevant paper and every other paper retrievedpapers were then sorted by the similarity measures producing two orderedlists we then compared the resulting predictions of relevance partialrelevance and nonrelevance to the users evaluations of the same papersoverall the change from the bibliographic coupling measure to the linkagesimilarity measure representing the introduction of cocitation dataresulted in better retrieval performance </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>61</NUM>
+<TITLE> searching biases in large interactive document retrieval systemsblair dcthe way that individuals construct and modify search queries onlarge interactive document retrieval system is subject to systematic biasessimilar to those that have been demonstrated in experiments on judgementsunder uncertainty these biases are shared by both naive and sophisticatedsubjects and cause the inquirer searching for documents on large interactivesystem to construct and modify queries inefficiently searching algorithmis suggested that helps the inquirer to avoid the effect of these biases </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>62</NUM>
+<TITLE> fuzzy requests an approach to weighted boolean searchesbooksteinthis article concerns the problem of how to permit patron torepresent the relative importance of various index terms in booleanrequest while retaining the desirable properties of boolean systemthe character of classical boolean systems is reviewed and related to thenotion of fuzzy sets the fuzzy set concept then forms the basis of theconcept of fuzzy request in which weights are assigned to index termsther properties of such system are discussed and it is shown that suchsystems retain the manipulability of traditional boolean requests </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>63</NUM>
+<TITLE> feature comparison of an inhouse information retrieval system withcommercial search serviceboyle somiller apcommercially available online search was used as standard forcomparative searching and evaluation of an inhouse information systembased on automatic indexing system features were identified andevaluated on the basis of their usefulness in various kinds of searchingtheir ease in implementation and how they are influenced by differencesin user type or specific applications some common features of thecommercial system such as online instruction userspecified print formatsdictionary display and truncation are seen to be unnecessary orimpractical for the inhouse system in designing the inhouse systemtherefore detald consideration must be given to the applicationsoperating environment and real user needs while commercial system canserve as useful standard for comparative evaluation one must becareful not to attempt to duplicate it blindly inhouse </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>64</NUM>
+<TITLE> measurement in information science objective and subjective metrical spacebrookes bcit is argued that in information science we have to distinguishphysical objective or document space from perspective subjective orinformation space these two spaces are like maps and landscapes eachis systematic distortion of the other however transformation can beeasily made once the two spaces are distinguished if the transformationsare omitted we only get unhelpful physical solutions to information problems </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>65</NUM>
+<TITLE> model of cluster searching based on classificationcroft wbthe use of document clusters been suggested as an efficient fileorganization for document retrieval system it is possible that byusing this information about the relationships between documents that theeffectiveness of the system ie its ability to distinguish relevantfrom nonrelevant documents may also be improved in this paperprobabilistic model of cluster searching based on query classification isdescribed this model is tested with retrieval experiments which indicatethat it can be more effective than heuristic cluster searches and clustersearches based on other models it can also be more effective than fullsearch in which every document is compared to the query the efficiencyaspects of the implementation of the model are discussed </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>66</NUM>
+<TITLE> the technology of library and information networksepstein hcurrent online library network technology is described including thephysical and functional aspects of networks three types of networks aredistinguished search service eg sdc lockheed customized servicethat provide bibliographic files eg oclc inc rlin and servicecenter eg nelinet incolsa it is predicted that as technologyevolves more services will be provided outside the library directly to theuser through his home or office </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>67</NUM>
+<TITLE> the use of titles for automatic document classificationhamill kazamoraan experimental computer program been developed to classifydocuments according to the 80 sections and five major section groupings ofchemical abstracts ca the program uses pattern recognition techniquessupplemented by heuristics during the training phase words frompreclassified documents are selected and the probability of occurrenceof each word in each section of ca is computed and stored in referencedictionary the classification phase matches each word of documenttitle against the dictionary and assigns section number to the documentusing weights derived from the probabilities in the dictionary heuristictechniques are used to normalize word variants such as plurals pasttenses and gerunds in both the training phase and the classificationphase the dictionary lookup technique is supplemented by the analysis ofchemical nomenclature terms into their component word roots to influencethe section to which the documents are assigned program performance andhuman consistency have been evaluated by comparing the program resultsagainst the published sections of ca and by conducting an experiment withpeople experienced in the assignment of documents to ca sections theprogram assigned approximately 78 of the documents to the correct majorsection groupings of ca and 67 of the correct sections or crossreferencesat rate of 100 documents per second </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>68</NUM>
+<TITLE> brief communicationsharding agwillett psome of the automatic classification procedures used in informationretrieval derive clusters of documents from an intermediate similaritymatrix the computation of which involves comparing each of the documentsin the collection with all of the others it recently been suggestedthat many of these comparisons specifically those between documentshaving terms in common may be avoided by means of the uyse of an invertedfile to the document collection this communication shows that theapproach will effect reductions in the number of interdocument comparisonsonly if the documents are each indexed by limited number of indexingterms if exhaustive indexing is used many document pairs will be comparedseveral times over and the computation will be greater than whenconventional approaches are used to generate the similarity matrix </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>69</NUM>
+<TITLE> the application of minicomputer to thesaurus constructionkazlauskas ejholt tdthe use of minicomputer in various phases of creating the thesaurusfor the national information center for special education materialsnicsem database is described the minicomputer is used to collectedit and correct candidate thesaurus terms the use of the minicomputereases the process of grouping terms into files of similar concepts andfacilitates the generation of products useful in vocabulary review and interm structuring syndetic relations indicated by assigning codedidentification numbers are altered easily in the design phase to reflectrestructuring requirements because thesaurus terms are already in machinereadable form it is simple to prepare print programs to provide permutedalphabetic hierarchical and chart formatted term displays overall theuse of the minicomputer facilitates initial thesaurus entry development byreducing clerical effort editorial staff decisions and overall processingtimes </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>70</NUM>
+<TITLE> adaptive design for decision support systemskeen pgwdecision support systems dss represent concept of the role ofcomputers within the decision making process the term becomerallying cry for researchers practitioners and managers concerned thatmanagement science and management information systems fields have becomeunnecessarily narrow in focus as with many rallying cries the term isnot well defined for some writers dss simply mean interactive systemsfor use by managers to others the key issue is support rather thansystem they focus on understanding and improving the decision processdss is then designed using any available and suitable technology someresearchers view dss as subfield of while others regard it as anextension of management science techniques the former define decisionsupport as providing managers with access to data and the latter as givingthem access to analytic modelsthe key argument of this paper is that the term dss is relevant tosituations where final system can be developed only through anadaptive process of learning and evolution the design strategy mustthen focus on getting finished this is very different from managementscience and data processing approaches the research issued for dsscenter around adaption and evolution they include managerial learningrepresentation of tasks and user behavior design architecture andstrategies for getting started </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>71</NUM>
+<TITLE> an automatic method for extracting significantphrases in scienfific or technical documentsmaeda tmomouchi jsawamura hnew method is described to extract significant phrases in the titleand the abstreact of scientific or technical documents the method isbased upon text structure analysis and uses relatively small dictionarythe dictionary been constructed based on the knowledge about conceptsin the field of science or technology and some lexical knowledge forsignificant phrases and their component items may be used in differentmeanings among the fields text analysius approach been applied toselect significant phrases as substantial and semantic information carriersof the contents of the abstractthe results of the experiment for five sets of documents have shownthat the significant phrases are effectively extracted in all cases andthe number of them for every document and the processing time is fairlysatisfactory the information representation of the document partlyusing the method is discussed with relation to the construction of thedocument information retrieval system </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>72</NUM>
+<TITLE> answerpassage retrieval by text searchingoconnor jpassage retrieval already operational for lawyers advantages inoutput form opver references retrieval and is economically feasibleprevious experiments in passage retrieval for scientists have demonstratedrecall and false retrieval rates as good or better than those of presentreference retrieval services the present experiment involved greatervariety of forms of retrieval question in addition search words wereselected independently by two different people for each retrieval questionthe search words selected in combination with the computer procedures usedfor passage retrieval produced average recall ratios of 72 and 67respectively for the two selectors the false retrieval rates were exceptfor one predictably difficult question respectively 13 and 10 falselyretrieved sentences per answerpaper retrieved </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>73</NUM>
+<TITLE> partialmatch retrieval using indexed descriptor filespfaltz jlberman wjcagley emin this paper we describe practical method of partialmatch retrievalin very large data files binary code word called descriptor isassociated with each record of the file these record descriptors arethen used to form derived descriptor for block of several recordswhich will serve as an index for the block as whole hence the nameindexed descriptor filesfirst the structure of these files is described and simple efficientretrieval algorithm is presented then its expected behavior in terms ofstorage accesses is analyzed in detail two different file creationprocedures are sketched and number of ways in which the file organizationcan be tuned to particular application is suggested </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>74</NUM>
+<TITLE> cooperation and competition among library networksrobinson bmrecenty technological advances and the success of oclc inc ledto the emergence of three additional nonprofit library networks theresearch libraries information network rlin of the research librariesgroup inc the university of toronto library automation system utlasand the washington library network wln this paper examines the economicand technological factors affecting the evolution of these networks andalso explores the role of those state and regional multistate networksthat broker oclc services the competitive and cooperative nature ofnetwork relationships is major theme of the discussion </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>75</NUM>
+<TITLE> an integrated understanderschank rclebowitz mbirnbarim lnew type of natural language parser is presented the idea behindthis parser is to map input sentences into the deepest form of therepresentation of their meaning and inferences as is appropriate theparser is not distinct from an entire understanding system it uses anintegrated conception of inferences scripts plans and other knowledge toaid in the parse furthermore it does not attempt to parse everything itsees rather it determines what is most interesting and concentrates onthat ignoring the rest </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>76</NUM>
+<TITLE> library networks and resource sharing in the united statesan historical and philosophical overviewstevens ndthis paper discusses the origins of library networks and traces theirdevelopment in the united states in the late 1960s through the presentthe concept of resource sharing with particular attention to the interlibrary loan and programs for the cooperative acquisition and storage ofmaterials is examined in relationship to library networks in particularattention is given to the question of how these two major components oflibrary cooperation which have tended to be separate might become moreclosely integrated </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>77</NUM>
+<TITLE> normalization of titles and their retrievaltakamatsu sfujita uynishida fthis paper presents method of normalizations of english titles andtheir retrieval the title expressed by noun phrase or noun clauseis converted to functionexpression by parsing for the retrieval withreasonable recall rate as well as high precision rate the functionexpression is transformed to predicategovernor form and then normalizedto standard form therefrom various items are extracted and recordedin hierarchical treelike inverted filein order to keep the recall rate in reasonable value severalretrieval stages are implemented based on the keyterm and caselabelmatching the retrieval is controlled by the preciseness of the specificationof caselabels for each keyterm </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>78</NUM>
+<TITLE> cascaded atn grammarswoods wageneralization of the notion of atn grammar called cascaded atncatn is prescribed catns permit decomposition of complex languageunderstanding behavior into sequence of cooperating atns with separatedomain of responsibility where each stage called an atn transducertakes its input from the output of the previous stage the paper includesan extensive discjussion of the principles of factoringconceptualfactoring reduces the number of places that given fact needs to berepresented in grammar and hypothesis factoring reduces the numberof distinct hypotheses that have to be considered during parsing </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>79</NUM>
+<TITLE> algorithms for processing partial match queries using word fragmentsalagar vsalgorithms are given to process partially specified queries incompressed database system the proposed methods handle effectivelyqueries that use either whole words or word fragments as language elementsthe methods are compared and critically evaluated in terms of the designand retrieval costs the analyses show that the method which exploits theinterdependence of fragments as well as the relevance of fragments torecords in the file maximum design cost and least retrieval cost </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>80</NUM>
+<TITLE> general formulation of bradfords distribution the graphorientedapproachasai ifrom the detailed analysis of eight previously published mathematicalmodels general formulation of bradfords distribution can be deduced asfollows logx c b where is the ratio of the cumulativefrequency of articles to the total number of articles and x is the ratioof the rank of journals to the total number of journals the parameters band c are the slope the intercept and the shift in straight line to log rankrespectively each of the eight models is special case of the generalformulation and is one of five types of formulation in order to estimatethree unknown parameters statistical method using rootweighted squareerror is proposed comparative experiment using 11 databases suggests thatthe fifth type of formulation with three unknown parameters is the best fitto the observed data further experiment shows that the deletion of thedroop data leads to more accurate value of parameters and less error </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>81</NUM>
+<TITLE> lexical problems in large distributed information systemsberkovich syshneiderman bthe lexical problems in large information systems are created by thenecessity of handling great number of names and their interrelationssuch lexical problems are not covered completely by the concept datadictionaries which are mostly concerned with database scheme design ratherthan the execution of operations in this paper we introduce our view oflexical subsystem as separate component in an information system architectureto deal with linguistic and control functions concerning the lexical problemsin local and network environments the lexical suybsystem is specialefficiently organized program package which plays the role of linguisticfilter in broad sense for lexically incorrect queries promotes integrationof databases and information retrieval systems and facilitates the creationof local information systems we hope that lexical subsystems can becomeproductive for any large especially distributed information system </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>82</NUM>
+<TITLE> the relational model in information retrievalcrawford rgthe relational model received increasing attention during thepast decade its advantages include simplicity consistency and soundtheoretical basis in this article the naturalness of viewing informationretrieval relationally is demonstrated the relational model is presentedand the relational organization of bibliographical database is shownthe notion of normalization is introduced and first second third andfourth normal forms are demonstrated relational languages are discussedincluding the relational calculus relational algebra and sequelnumerous examples pertinent to information retrieval are presented in theserelational languages advantages of the relational approach to informationretrieval are noted </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>83</NUM>
+<TITLE> electronic information interchange in an office environmentdesousa mrthis paper describes an architectural approach that provides informationexchange across broad spectrum of user applications and office automationofferings some of the architectures described herein are currentlyimplemented in existing ibm products these and other architectures willprovide the basis for document interchange capability between productssuch as the ibm 5520 administrative system the ibm system370 distributedoffice support system disoss and the ibm displaywriter systemspecifically described is document distribution architecture and itsassociated data streams and othersgeneral overview of the architectures as opposed to detailedtechnical description is provided the architectures described areprotocols for interchange between application processes they do notaddress the specific user interface the document distributionarchitectures utilize sna for data transmission and communications controlfacilities </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>84</NUM>
+<TITLE> the use of automatic relevance feedback in boolean retrieval systemsdillon mdesper jtechnique is described for automatic reformulation of booleanqueries based on patron relevance judgements of an initial retrievalprevalence measures are derived for terms appearing in the retrieved setof documents that reflect terms distribution among the relevant andnonrelevant documents these measures are then used to guide theconstruction of boolean query for subsequent retrieval to illustratethe technique series of tests is described of its application to smalldata base in an experimental environment results compare favourably withfeedback as employed in smarttype system more extensive testing issuggested to validate the technique </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>85</NUM>
+<TITLE> interacting in natural language with artificial systems the donau projectguida gsomalvico mthis paper is intended to propose new methodological approach tothe conception and development of natural language understanding systemsthis new contribution is supported by the design implementation andexperimentation of donau general purpose domain oriented naturallanguage understanding system developed and presently running at the milanpolytechnic artificial intelligence project the system is based on twolevel modular architecture intended to overcome the lack of flexibility andgenerality often pointed out in many existing systems and to facilitatethe exchange of results and actual experiences between different projectsthe horizontal level allows an independent and parallel development of thesingle segments of the system syntactic analyser information extractorlegality controller the vertical level ensures the possibility of changingenlarging or redefining the definition of the semantic domain on which eachparticular version of the system is oriented and specialized in simpleincremental and useroriented way in the paper the general architecture ofthe system and the mode of operation of each segment are illustrated indetail linguistic models knowledge representation and parsing algorithmsare described and illustrated by means of selected examples performanceevaluations of the system in the application version on data base inquiry arereported and discussed promising directions for future research are presentedin the conclusions </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>86</NUM>
+<TITLE> approximate string matchinghall pavdowling grapproximate matching of strings is reviewed with the aim ofsurveying techniques suitable for finding an item in database whenthere may be spelling mistake or other error in the keyword themethods found are classified as either equivalence or similarity problemsequivalence problems are seen to be readily solved using canonical formsfor similarity problems difference measures are surveyed with fulldescription of the wellestablished dynamic programming method relatingthis to the approach using probabilities and likelihoods searches forapproximate matches in large sets using difference function are seen tobe an open problem still though several promising ideas have beensuggested approximate matching error correction during parsing isbriefly reviewed </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>87</NUM>
+<TITLE> using an online microfiche catalog for technical service and retrieval ofbibliographic datahayes rmborko hprototype system is created that integrates microfiche cataloginto an online computer system for bibliographic control costs andoperational data are collected and analyzed the system permits the moreeconomical microfiche storage of catalog records than would be feasiblefor comparable online magnetic disk storage experimental testsdemonstrate the feasibility of the online microfiche catalog system for usein library technical services and retrieval of bibliographic data theprimary result of the project is the creation of completely operationalfacility including all equipment software procedures and data basesnecessary to demonstrate the system second set of results is derivedfrom the experimental use of the system and the evaluation of costs andtimes for various operations the cost effectiveness of the online microfichecatalog is demonstrated </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>88</NUM>
+<TITLE> natural language access to information systems an evaluation studyof its acceptance by end userskrause jthe question is asked whether it is feasible to use subsets ofnatural languages as query languages for data bases in actual applicationsusing the question answering system user specialty languages uslmethods of evaluating natural language based information system willbe discussed the results error and language structure evaluationsuggest how to form the general architecture of application systems whichuse subset of german as query language </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>89</NUM>
+<TITLE> some considerations relating to the costeffectiveness of online servicesin librarieslancaster fwin 1978 collier presented some hypothetical data on economic aspectsof the use of online services as compared with subscriptions to printedservices in libraries colliers view of the economics of online searchingseems misleadingly pessimistic because1 it looks only at costs but not at effectiveness in comparing the twomodes of access and searching an analysis combining cost andeffectiveness aspects ie costeffectiveness analysis wouldgive completely different picture2 the way the cost data are presented is grossly unfair to the onlinemode of access and usethis work contains corrected information regarding online and printedservices in libraries </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>90</NUM>
+<TITLE> cocitation context analysis and the structure of paradigmssmall hmany information scientists are concerned with the operation ofdocument retrieval systems serving scientists in various fields thescientists served by these systems are often members of what have been calledinvisible colleges groups of scientists in frequent communication withone another and involved with highly specialized subject matters oftensuch groups are considered to share an intellectual perspective regardingthis subject matter which is sometimes referred to as paradigmthe purpose of this paper is to show how it is possible to identifyparadigms using the techniques of citation analysis i will operationalizethe notion of paradigm as consensual structure of concepts in fieldsuppose we have obtained set of papers pertaining to some topic alreadyknowing something about the field we read each text and mark passages inwhich certain specific concepts are used or discussed for example wemight find that concept designated appears in some subset of thepapers suppose further that we identify those papers in which conceptsand b are used together in the same papers in certain specified mannerclearly not all concepts will combine in natural way and not all authorscombining concepts and b will do so in the same way though somepredominant mode may emerge for set of n concepts their structure isgiven by the totality of admissible combinations of concepts taken fromtwo to n at time the frequency with which given combination occursin the sample of papers on the topic is measure of the degree of consensusregarding the particular concept combination within the corpus forconcepts taken two at time the structure can be displayed as graph withconcepts as nodes and the relations between them represented as lines arcsconnecting the nodes this definition of concept structure issimilar to the semantic network of artificial intelligence except that inour approach measure of consensus weights each arc of the graph </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>91</NUM>
+<TITLE> cocited author retrieval onlinean experiment with the social indicators literaturewhite hdone mode of online retrieval in scisearch or social scisearch involvesentering pairs of authors names believed to be jointly cited bysubsequent writers and retrieving papers in which cocitations occur sixpairs were formed with the names of four authors prominent in the socialindicators movement bauer duncan land and sheldon documents by thefour were not specified it was thought that the pair duncan and landwould retrieve papers in which indicatortype data would be integrated withpathanalytic causal modeling all other pairs seemed likely to retrievegeneral social indicators literature the 298 retrieved papers confirmedexpectattions it was found that 121 papers generally cited social indicatorssi documents by the input authors and frequently had si language intheir titles other signs of content also identified them as papers ofthe si movement the 177 papers retrieved on duncan and land generallycited causal modeling documents by the input pair and were pathanalyticin nature as expected they were relatively harder than the firstgroup of papers although the two groups are akin and are formally linkedthrough citations in certain papers an additional result is that papersciting at least three of the input authors tend to be overviews of the simovement </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>92</NUM>
+<TITLE> database and online statistics for 1979williamsthe number of databases records contained in databases and the onlineuse of databases increased dramatically over the past several yearsbringing the 1979 totals for bibliographic bioliographicrelated andnatural language databases to 528 these 528 databases contain 148 millionrecords some 4 million online searches were conducted via the major usand canadian systems in 1979 </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>93</NUM>
+<TITLE> experiments in local metrical feedback in fulltext retrieval systemsattar rfraenkel asmethod of iterative searching using the results of one iteration searchto formulate the next iteration search was applied to fulltext databaseconsisting of some 2400 documents and 13000000 textwords of hebrew andaramaic the iterative method consists of clustering the documents returnedin an iteration using weighting by proximity and by frequency simultaneouslythe process produces searchonyms which are terms synonymous to keywords in thecontext of single query augumenting or replacing keywords by searchonymsvia manual or automatic feedback leads to the formulation of the next iterationsearch the results of the experiment are consistent with those of an earliersmallscale experiment on an english database and indicate that in contrastto global clustering where the size of matrices limits applications to smalldatabases and improvements are doubtful local metrical methods appear to bewell suited to arbitrarily large databases improving precision and recallsimultaneously further experiments using more testqueries run on evenlarger databases should be made to collect further evidence as to theperformance of these methods </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>94</NUM>
+<TITLE> microcomputer alternative for information handling reflesbivins ktpalmer rcrefles is microcomputerbased system for data retrieval in libraryenvironments the problem of information retrieval is discussed fromtheoretical point of view followed by an analysis of the reference processand data thereby gathered leading to description of refles in terms ofits hardware and software refles prototype system at present currentlyfunctions in test environment examples of data contained in the systemand of its use are presented future considerations and speculations onother versions of the system conclude the paper </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>95</NUM>
+<TITLE> comparison of two systems of weighted boolean retrievalbooksteinmajor deficiency of traditional boolean systems is their inability torepresent the varying degrees to which document may be written on subjectin this article we isolate number of criteria that should be met by anyboolean system generalized to have weighting capability it is proven thatonly one weighting rule satisfies these conditionsthat associated with fuzzyset theoryand that this weighting scheme satisfies most of the otherproperties associated with boolean algebra as well probabilistic weightingis then introduced as an alternative approach and the two systems comparedin the limit of zeroone weights all systems considered converge totraditional boolean retrieval </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>96</NUM>
+<TITLE> threshold values and boolean retrieval systemsbuell dakraft dhseveral papers have appeared that have analyzed recent developmentsin the problem of processing in document retrieval system queries expressedas boolean expressions the purpose of this paper is to continue that analysiswe shall show that the concept of threshold values resolves the problemsinherent with relevance weights moreover we shall explore possible evaluationmechanisms for retrieval of documents based on fuzzysettheoreticconsiderations </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>97</NUM>
+<TITLE> model for weighted retrieval systembuell dakraft dhthere been good deal of work on information retrieval systems thathave continuous weights assigned to the index terms that describe the recordsin the database andor to the query terms that describe the user queriesrecent articles have analyzed retrieval systems with continuous weights ofeither type andor with boolean structure for the queries they have alsosuggested criteria which such systems ought to satisfy and record evaluationmechanisms which partially satisfy these criteria we offer more carefulanalysis based on generalization of the discrete weights we also lookat the weights from an entirely different approach involving thresholds andwe generate an improved evaluation mechanism which seems to fulfill largersubset of the desired criteria than previous mechanisms this new mechanismallows the user to attach threshold to the query term </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>98</NUM>
+<TITLE> translating computer interface for enduser operation of heterogeneousretrieval systems i designmarcus rsreintjes jfonline retrieval systems may be difficult to use especially by endusers because of heterogeneity and complexity investigations have concernedthe concept of translating computer interface as means to simplify accessto and operation of heterogeneous bibliographic retrieval systems anddatabases the interface allows users to make requests in common languagethese requests are translated by the interface into the appropriate commandsfor whatever system is being interrogated system responses may also betransformed by the interface into common form before being given to theusers thus the network of different systems is made to look like singlevirtual system to the user the interface also provides instruction andother search aids for the user the philosophy design and implementationof an experimental interface named conit are described </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>99</NUM>
+<TITLE> translating computer interface for enduser operation ofheterogeneous retrieval systems ii evaluationsmarcus rsreintjes jfthe evaluation of the concept of translating compuyter interface forsimplifying operation of multiple heterogenous online bibliographicretrieval systems been undertaken an experimental retrieval systemnamed conit was built and tested under controlled conditions withinexperienced end users detailed analysis of the experimental usagesshowed that users were able to master interface operation sufficiently wellto find relevant document references success was attributed in partto simple command language adequate online instruction and simplifiednaturallanguage keywordstem approach to searching it is concluded thatoperational interfaces of the type studied can provide for increased usabilityof existing system in cost effective manner especially for searchersfurthermore more advanced interfaces based on improved instruction andautomated search strategy techniques could further enhance retrievaleffectiveness for wide class of users </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>100</NUM>
+<TITLE> the interface between computerized retrieval systems and micrographicretrieval systemsmcmurdo gthis paper notes the benefits accruing from interaction between computerizedretrieval systems and micrographic retrieval systems it reviews current stateof automated micrographic retrieval technology the conclusion is that withcombination of advances in communications technology and sophisticated indexinginput from libraries and information scientists the new generation of automatedmicrographs devices may constitute the online document retrieval systems of thefuture </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>101</NUM>
+<TITLE> parallel computations in information retrievalsalton gbergmark dconventional information retrieval processes are largely based on datamovement pointer manipulations and integer arithmetic more refined retrievalalgorithms may in addition benefit from substantial computational powerin the present study number of parallel processing methods are describedthat serve to enhance retrieval services in conventional retrievalenvironments parallel list processing and parallel search facilities are ofgreatest interest in more advanced systems the use of array processorsalso proves beneficial various information retrieval processes are examinedand evidence is given to demonstrate the usefulness of parallel processingand fast computational facilities in information retrieval </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>102</NUM>
+<TITLE> the measurement of term importance in automatic indexingsalton gwu hyu ctthe frequency characteristics of terms in the documents of collectionhave been used as indicators of term importance for content analysis andindexing purposes in particular very rare or very frequent terms arenormally believed to be less effective than mediumfrequency terms recentlyautomatic indexing theories have been devised that use not only the termfrequency characteristics but also the relevance properties of the termsthe major termweighting theories are first briefly reviewed the termprecision and term utility weights that are based on the occurrencecharacteristics of the terms in the relevant as opposed to the nonrelevantdocuments of collection are then introduced methods are suggested forestimating the relevance properties of the terms based on their overalloccurrence characteristics in the collection finally experimentalevaluation results are shown comparing the weighting systems using the termrelevance properties with the more conventional frequencybased methodologies </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>103</NUM>
+<TITLE> ndx100 an electronic filing machine for the office of the futureslonim jmacrae ljmennie wediamond nthis paper describes the design and implementation of an electronic filingmachine machine which is capable of storing large numbers of unstructureddocuments in such way particular document may be easily and quicklyretrieved functional distributed architecture permits the implementationof the system in mixture of hardware and software </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>104</NUM>
+<TITLE> the selection of good search termsvan rijsbergen cjharper djporter mfthis paper tackles the problem of how one might select further search termsusing relevance feedback given the search terms in the query these searchterms are extracted from maximum spanning tree connecting all the terms in theindex term vocabulary number of different spanning trees are generated fromvariety of association measures the retrieval effectiveness for thedifferent spanning trees is shown to be approximately the same effectivenessis measured in terms of precision and recall and the retrieval tests are doneon three different test collections </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>105</NUM>
+<TITLE> indexing consistency quality and efficiencyrolling lindexing quality determines whether the information content of an indexeddocument is accurately represented indexing effectiveness measures whetheran indexed document is correctly retrieved every time it is relevant toquery measurement of these criteria is cumbersome and costly data baseproducers therefore prefer interindexer consistency as measure of indexingquality or effectiveness the present article assesses the validity of thissubstitution in various environments </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>106</NUM>
+<TITLE> text passage retrieval based on colon classification retrieval performanceshepherd maset of experiments was conducted to determine the suitability of thecolon classification as foundation for the automated analysis representationand retrieval of primary information from the full text of documents primaryinformation is that information embodied in the text of document as opposedto secondary information which is generally in such forms as an abstracttable of contents or an indexfull text databases were created in two subject areas and queries solicitedfrom specialists in each area an automated full text indexing system alongwith four automated passage retrieval systems was created to test the variousfeatures of the colon classification two booleanbased systems and one simpleword occurrence system were created in order to compare the retrieval resultsagainst types of systems which are in more common use the systems retrievalperformances were measured using recall and precision and the mean expectedsearch length reduction factorsoverall it was found that the colon classificationbased systems did notperform significantly better than the other systems </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>107</NUM>
+<TITLE> userresponsive subject control in bibliographic retrieval systemstague jmstudy was carried out of the relationship between the vocabulary ofuser queries and the vocabulary of documents relevant to the queries andthe value of adding to the document description record in retrieval systemkeywords from previous queries for which the document had proved usefultwo test databases incorporating user query keywords were implemented atthe school of library and information science university of westernontario clustering of the documents via title and user keywordsstatistical analysis of titleuser keyword cooccurrences and retrievaltests were used to examine the effect of the added keywords resultsshowed the impracticality of the procedure in an operational setting butindicated the value of analyses with sample data in the development andmaintenance of keyword dictionaries and thesauri </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>108</NUM>
+<TITLE> program for machinemediated searchingtoliver dtechnique of online instruction and assistance to bibliographic database searchers called individualized instruction for data access iida isbeing developed by drexel university iida assists searchers by providingfeedback based on realtime analysis while searches are being performedextensive help facilities which draw on this analysis are available tousers much of the projects experimental work as described elsewhereis concerned with the process of searching and the behavior of searchersthis paper will largely address itself to the projects computer system whichis being developed by subcontract with the franklin institutes scienceinformation services </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>109</NUM>
+<TITLE> author cocitation literature measure of intellectual structurewhite hdgriffith bcit is shown that the mapping of particular area of science in thiscase information science can be done using authors as units of analysis andthe cocitations of pairs of authors as the variable that indicates theirdistances from each other the analysis assumes that the more two authorsare cited together the closer the relationship between them the raw dataare cocitation counts drawn online from social scisearch social sciencescitation index over the period 19721979 gthe resulting map shows1 identifiable author groups akin to schools of information science2 locations of these groups with respect to each other 3 the degree ofcentrality and peripherality of authors within groups 4 proximities ofauthors within group and across group boundaries border authors who seemto connect various areas of research and 5 positions of authors withrespect to the maps axes which were arbitrarily set spanning the mostdivergent groups in order to aid interpretation cocitation analysis ofauthors offers new technique that might contribute to the understanding ofintellectual structure in the sciences and possibly in other areas to theextent that those areas rely on serial publications the techniqueestablishes authors as well as documents as an effective unit inanalyzing subject specialties </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>110</NUM>
+<TITLE> progress in documentation word processingan introduction and appraisalwhitehead jthe office of the future office technology word processingelectronic mail electronic communications convergence informationmanagement these are all terms included in the current list of buzz wordsused to describe current activities in the office technology area the highlevel of investment in factories and plants and the everincreasing fight toimprove productivity by automating the dull routine jobs are usually quotedand compared with the extremely low investment in improving and automatingthe equally tedious routine jobs in the office environment the investmentin the factory is quoted as being ten times greater per employee than in theoffice this however is changing rapidly and investment on large scaleis already taking place in manhy areas as presentday inflation bites hardforcing many companies and organizations to take much closer look at theiroffice operations </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>111</NUM>
+<TITLE> document clustering using an inverted file approachwillett pan automated document clustering procedure is described which does notrequire the use of an interdocument similarity matrix and which is independentof the order in which the documents are processed the procedure makes use ofan initial set of clusters which is derived from certain of the terms in theindexing vocabulary used to characterise the documents in the file theretrieval effectiveness obtained using the clustered file is compared with thatobtained from serial searching and from use of the singlelinkage clusteringmethod </TITLE>
+</TOP>
+</TITLE>
+</TOP>
+<TOP>
+<NUM>112</NUM>
+<TITLE> fast procedure for the calculation of similarity coefficients inin automatic classificationwillett pfast algorithm is described for comparing the lists of terms representingdocuments in automatic classification experiments the speed of the procedurearises from the fact that all of the nonzerovalued coefficicents for givendocument are identified together using an inverted file to the terms in thedocument collection the complexity and running time of the algorithm arecompared with previously described procedures </TITLE>
+</TOP>
