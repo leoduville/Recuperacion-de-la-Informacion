@@ -1,0 +1,15 @@
+# Ignorar todos los archivos de texto en cualquier parte del repositorio
+*.txt
+
+# Ignorar archivos binarios generales
+*.bin
+*.exe
+*.dll
+*.so
+*.o
+*.bf
+
+# Ignorar archivos compilados
+*.class
+*.pyc
+*.jar
